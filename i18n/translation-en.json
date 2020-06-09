@@ -207,6 +207,7 @@
       "rejected": "Rejected",
       "completed": "Completed",
       "cancelled": "Cancelled",
+      "corrected": "Corrected",
       "set": "Set status:",
       "setBy": "set by",
       "none": "None"
